@@ -12,7 +12,3 @@ import (
 	"github.com/anandku06/GoDataHub/config"
 	"github.com/anandku06/GoDataHub/routes"
 )
-
-func main() {
-		
-}
