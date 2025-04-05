@@ -1,0 +1,31 @@
+.env
+# Binaries
+*.exe
+*.out
+*.test
+
+# Build directory
+/build
+/bin
+
+# Dependency directories (in case)
+vendor/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# Environment Files
+.env
+
+# Go coverage reports
+*.cover
+coverage.out
